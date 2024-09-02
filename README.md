@@ -1,5 +1,7 @@
 # StockJump
 
+本文为复现https://arxiv.org/abs/2404.16467的代码，如果对您有帮助请star~ ;D
+
 计算jump_score的规则为：
 
 #### Jt = rt/(σt*ft)
